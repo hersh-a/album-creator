@@ -50,6 +50,3 @@ The app validates user input before creating the album card. If something is wro
 ---
 
 
-## 🚀 Live Demo
-
-(You can add your Netlify link here)
